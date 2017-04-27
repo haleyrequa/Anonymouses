@@ -1,0 +1,12 @@
+
+.cheese {
+    font-family: sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+.phone {
+    alignment: center;
+    max-height: 50%;
+    height: auto;
+    width: 100px;
+}
